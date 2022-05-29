@@ -6,12 +6,12 @@ dataDisplay:
       style:  normal
 interfaceDefaults: {}
 provenanceSpec:
-  corpus: texts from the real bible
+  corpus: vulgate
   version: '0.1'
 typeDisplay:
   book:
     featuresBare: author
-  line:
+  verse:
     features: language
     label: '{number}'
     template: '{number}'
