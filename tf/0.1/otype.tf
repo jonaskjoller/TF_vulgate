@@ -6,9 +6,9 @@
 @valueType=str
 @version=0.1
 @writtenBy=Text-Fabric
-@dateWritten=2022-05-18T11:59:42Z
+@dateWritten=2022-05-29T20:37:01Z
 
-1-31	word
-32	book
-33-37	line
-38-39	page
+1-964	word
+965	book
+966-967	chapter
+968-1023	verse
