@@ -1,13 +1,13 @@
 @node
-@compiler=Martijn Naaijer
+@compiler=Jonas Kjøller-Rasmussen
 @description=the text of a word
-@name=The Real Bible
+@name=Clementine Vulgate
 @purpose=exposition
-@source=Various sacred texts
+@source=Sacred Texts
 @valueType=str
 @version=0.1
 @writtenBy=Text-Fabric
-@dateWritten=2022-05-29T20:45:24Z
+@dateWritten=2022-05-29T20:53:20Z
 
 In
 principio

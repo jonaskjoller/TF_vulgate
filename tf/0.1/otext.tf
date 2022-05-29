@@ -1,12 +1,12 @@
 @config
-@compiler=Martijn Naaijer
+@compiler=Jonas Kjøller-Rasmussen
 @fmt:text-orig-full={text} 
-@name=The Real Bible
+@name=Clementine Vulgate
 @purpose=exposition
 @sectionFeatures=title,number,number
 @sectionTypes=book,chapter,verse
-@source=Various sacred texts
+@source=Sacred Texts
 @version=0.1
 @writtenBy=Text-Fabric
-@dateWritten=2022-05-29T20:45:24Z
+@dateWritten=2022-05-29T20:53:20Z
 
