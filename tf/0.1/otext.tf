@@ -8,5 +8,5 @@
 @source=Various sacred texts
 @version=0.1
 @writtenBy=Text-Fabric
-@dateWritten=2022-05-29T20:37:01Z
+@dateWritten=2022-05-29T20:45:24Z
 
