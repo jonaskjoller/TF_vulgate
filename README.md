@@ -3,4 +3,4 @@ Contains notebook in which a simple text is converted to a text fabric dataset.
 
 You can run the app with:
 
-`text-fabric dt-ucph/conversion_to_text_fabric`
+`text-fabric jonaskjoller/TF_vulgate`
